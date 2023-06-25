@@ -12,7 +12,7 @@ In this project we have used Linear Regression, Decision Trees and Random Forest
 ## Final Model Algorithm :
 Among the models that we tried building, Random Forest performed the best in terms of r2 score
 
-@# Model Performance Measures :
+## Model Performance Measures :
 Random Forest
 RMSE: 4.2504
 
