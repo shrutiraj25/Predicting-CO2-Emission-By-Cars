@@ -7,7 +7,7 @@ CO2 Emissions by cars has been a major cause for global warming. Analysing the t
 Predicting CO2 emissions emitted by vehicles of Canada
 
 ## Algorithms Used :
-In this project we have used Linear Regression, Decision Trees and Random Forest. We also added Regularization Techniques to check the performance of the models
+In this project we have used Linear Regression, Decision Trees and Random Forest. We also added Regularization Techniques (Ridge and Lasso) to check the performance of the models
 
 ## Final Model Algorithm :
 Among the models that we tried building, Random Forest performed the best in terms of r2 score
