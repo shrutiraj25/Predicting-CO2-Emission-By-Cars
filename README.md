@@ -1,7 +1,7 @@
 # Predicting-CO2-Emission-By-Cars.
 
 ## Problem Statement :
-CO2 Emissions by cars has been a major cause for global warming. Analysing the total CO2 emissions emitted by cars of Canada
+CO2 Emissions is causing global warming and increase in pollution levels and also depleting the ozone layer, especially the emissions by cars has been a major cause for it
 
 ## Objective:
 Predicting CO2 emissions emitted by vehicles of Canada and understand the factors influencing the CO2 emission in cars
