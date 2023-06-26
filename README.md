@@ -4,7 +4,7 @@
 CO2 Emissions by cars has been a major cause for global warming. Analysing the total CO2 emissions emitted by cars of Canada
 
 ## Objective:
-Predicting CO2 emissions emitted by vehicles of Canada
+Predicting CO2 emissions emitted by vehicles of Canada and understand the factors influencing the CO2 emission in cars
 
 ## Algorithms Used :
 In this project we have used Linear Regression, Decision Trees and Random Forest. We also added Regularization Techniques (Ridge and Lasso) to check the performance of the models
