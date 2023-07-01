@@ -6,6 +6,11 @@ CO2 Emissions is causing global warming and increase in pollution levels and als
 ## Objective:
 Predicting CO2 emissions emitted by vehicles of Canada and understand the factors influencing the CO2 emission in cars
 
+
+## Data :
+This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from Canada Government official open data website. This is a compiled version. This contains data over a period of 7 years.
+
+
 ## Algorithms Used :
 In this project we have used Linear Regression, Decision Trees and Random Forest. We also added Regularization Techniques (Ridge and Lasso) to check the performance of the models
 
